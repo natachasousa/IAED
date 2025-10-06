@@ -7,7 +7,7 @@
 CFLAGS = -O3 -Wall -Wextra -Werror -Wno-unused-result
 
 # Executable name
-TARGET = proj 
+TARGET = proj
 
 # Automatically find all .c source files
 SRC = $(wildcard *.c)
