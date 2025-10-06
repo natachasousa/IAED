@@ -1,2 +1,1 @@
-# IAED
-Introduction to Algorithms and Data Structures @ IST
+Project developed in Introduction to Algorithms and Data Structures class @ IST
